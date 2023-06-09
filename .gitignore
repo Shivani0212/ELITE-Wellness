@@ -1,2 +1,6 @@
 /node_modules
 /client/node_moddules
+/.env
+/ProtectedRoute.js
+/PublicRoute.js
+
