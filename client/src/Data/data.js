@@ -1,4 +1,3 @@
-
 export const userMenu = [
   {
     name: "Home",
@@ -46,3 +45,4 @@ export const adminMenu = [
     icon: "fa-solid fa-user",
   },
 ];
+

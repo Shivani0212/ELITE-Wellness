@@ -25,7 +25,7 @@ const Layout = ({ children }) => {
     },
     {
       name: "Appointments",
-      path: "/appointments",
+      path: "/doctor-appointments",
       icon: "fa-solid fa-list",
     },
 
@@ -49,7 +49,7 @@ const Layout = ({ children }) => {
         <div className="layout">
           <div className="sidebar">
             <div className="logo">
-              <h6>DOC APP</h6>
+              <h6 className="text-light">DOC APP</h6>
               <hr />
             </div>
             <div className="menu">
@@ -94,4 +94,3 @@ const Layout = ({ children }) => {
 };
 
 export default Layout;
-
