@@ -13,13 +13,11 @@ We came up with the idea of creating a platform called ELITE-Wellness to impleme
 
 ### The features we implemented are: 
 
-> *Login and Signup*: Users(Doctors & Patients) can login and signup on the platform.
+> Both patients and doctors have the flexibility to securely store their medical data on this platform.
 
 > *Notifications*: Admin gets notified.
 
-> *Check Doctors Availability*: Users can check whether at that time slot is available or not. 
-
-> *Appointment*: User can fix their appointment with available doctors.
+> *Check Doctors Availability and Appointments*: Patients can conveniently schedule their appointments with their preferred doctors by accessing and checking the availability of time slots. 
 
 ## Technology Stack used: 
 * MongoDB
